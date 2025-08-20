@@ -1,7 +1,7 @@
 import { Link } from "@heroui/link";
 import React from "react";
 
-const MemebersPage = () => {
+const MembersPage = () => {
   return (
     <div>
       <h3 className="text-3xl">This will be the members page</h3>
@@ -10,4 +10,4 @@ const MemebersPage = () => {
   );
 };
 
-export default MemebersPage;
+export default MembersPage;
