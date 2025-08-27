@@ -1,6 +1,6 @@
 'use client';
 
-import { registerUser } from '@/actions/authActions';
+import { registerUser } from '@/app/actions/authActions';
 import { registerSchema, RegisterSchema } from '@/lib/schemas/registerSchema';
 import { Button, Card, CardBody, CardHeader, Input } from '@heroui/react';
 import { zodResolver } from '@hookform/resolvers/zod';

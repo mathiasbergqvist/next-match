@@ -1,6 +1,6 @@
 'use client';
 
-import { signOutUser } from '@/actions/authActions';
+import { signOutUser } from '@/app/actions/authActions';
 import {
   Avatar,
   Dropdown,
